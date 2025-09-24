@@ -1,0 +1,1 @@
+No additional configuration files such as `.env` or special middleware configs are included directly here. Please set up environment-specific configurations as needed in your production environment.

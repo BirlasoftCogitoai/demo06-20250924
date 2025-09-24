@@ -1,0 +1,1 @@
+Sure! Below is a complete, production-ready code sample following the specifications and recommendations provided. The code focuses on the backend and part of frontend implementations based on the BRD and the architecture recommendations.

@@ -1,0 +1,1 @@
+1. Run Docker Compose from the project root directory:
